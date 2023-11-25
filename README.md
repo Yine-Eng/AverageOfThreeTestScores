@@ -1,0 +1,2 @@
+# AverageOfThreeTestScores
+This Java program efficiently calculates the average of three test scores entered by the user. Using if-else statements, it determines the corresponding letter grade based on the average. The program incorporates safeguards to handle input errors, notifying the user if scores exceed the valid range of 0-100. This simple yet robust tool provides users with quick insights into their performance and corresponding letter grades.
